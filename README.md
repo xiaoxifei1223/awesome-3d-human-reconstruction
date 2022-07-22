@@ -1,5 +1,6 @@
 # awesome 3d human reconstruction 
 A curated list of related resources for 3d human reconstruction.
+Add another 3D reconstruction sources (the original lists is forked from https://github.com/rlczddl/awesome-3d-human-reconstruction)
 
 ## Contents
  - [papers](#3d-human)
@@ -9,6 +10,7 @@ A curated list of related resources for 3d human reconstruction.
  - [labs](#labs)
  - [other related awesome](#other-related-awesome)
   - [survey](#survey)
+ - [3D scene reconstruction]
  
  
  
@@ -471,3 +473,6 @@ A curated list of related resources for 3d human reconstruction.
 ##### • Towards efficient and photorealistic 3D human reconstruction: A brief survey  [paper](https://www.sciencedirect.com/science/article/pii/S2468502X21000413)
 ##### •Survey on 3D face reconstruction from uncalibrated images  [paper](https://arxiv.org/abs/2011.05740)
 ##### •State of the Art on 3D Reconstruction with RGB-D Cameras  [paper](https://zollhoefer.com/papers/EG18_RecoSTAR/paper.pdf)
+
+## 3D scene reconstruction 
+##### NeRF-VAE: A Geometry Aware 3D Scene Generative Model [paper](http://proceedings.mlr.press/v139/kosiorek21a/kosiorek21a.pdf)
